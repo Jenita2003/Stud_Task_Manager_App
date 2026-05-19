@@ -72,4 +72,4 @@ Added screenshots in Project folder in Github
 ## Author details
 
 Jenita Hannah P
-Android Development (Student Task Manager App)
+
