@@ -27,14 +27,13 @@ Users can:
 
 - Java
 - Android Studio
+- Database: Data was maintained by ArrayList during runtime (as of the requirement)
 - Version Control: Git
 - Repository: Github
 
 -----------------------------------------------------------------------------------------------------------------------------------------
 
-## Steps to run the project
-
-## 🚀 Steps to Run the Project
+## Steps to Run the Project
 
 1. Open the project in Android Studio
 
@@ -55,22 +54,22 @@ The app was tested by running directly on a mobile device using USB connection f
 
 -----------------------------------------------------------------------------------------------------------------------------------------
 
-## 📂 Project Structure
+## Screenshots
 
-- Login Activity
-- Home Activity
-- Add Task Activity
-- RecyclerView Adapter (TaskAdapter)
-- Task Model Class
+- login.jpeg
+- home.jpeg
+- addtask.jpeg
+- status_pending.jpeg
+- status_completed.jpeg
+- edit.jpeg
+- delete.jpeg
+
+## --- Note ---
+Added screenshots in Project folder in Github
 
 -----------------------------------------------------------------------------------------------------------------------------------------
 
-## 🎯 Purpose
+## Author details
 
-This project was developed as part of an academic assignment to demonstrate Android development skills including UI design, RecyclerView, and basic CRUD operations.
-
----
-
-## 👨‍💻 Developer
-
-- Student Project (Java Android)
+Jenita Hannah P
+Android Development (Student Task Manager App)
